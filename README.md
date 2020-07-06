@@ -1,4 +1,4 @@
-Simple web application built using React.
+Simple web application built using React + Redux.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
